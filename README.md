@@ -8,9 +8,9 @@ If you want to get the most out of this tutorial then I suggest cloning this rep
 "NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays..." - [NumPy.org](https://numpy.org/doc/stable/user/quickstart.html)
 
 **How does NumPy Relate to Machine Learning?**  
-As the definition states, "NumPy is the fundamental package for scientific computing in Python". This means that popular Python libraries for machine learning are built on top of it (For example, [Pandas](https://pandas.pydata.org/docs/index.html), [Scikit-Learn](https://scikit-learn.org/stable/), and [matplotlib](https://matplotlib.org/)). It's common to use NumPy's n-dimensional array when using the other libraries or for the other libraries to have similar functionality. 
+NumPy is the foundation for many Python libraries for machine learning. For example, [Pandas](https://pandas.pydata.org/docs/index.html), [Scikit-Learn](https://scikit-learn.org/stable/), and [matplotlib](https://matplotlib.org/) all use it. Functions from these libraries will often return NumPy's multidimensional array object or require them as input.      
 
-The fundamental building block of NumPy is the multidimensinal array. The NumPy array can show up in different ways during a Machine Learning problem but it will commonly represent your Dataset, pieces of your Dataset, or ouput from methods like predicting values or calculating accuracy scores. Therefore, the most important things to know are how to look at values, create/read/update/delete rows (examples), and create/read/update/delete columns (features). 
+NumPy's multidimensional array will commonly represent your Machine Learning Dataset, pieces of your Dataset, or ouput from methods like predicting values or calculating accuracy scores. Therefore, the most important things to know are how to look at values, do basic operations, and create/read/update/delete rows and columns from a two-dimensional array (ie a Table of Data).   
 
 **Extra Learning**  
 The guides on [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) are very good and largely what this guide is based on.    
