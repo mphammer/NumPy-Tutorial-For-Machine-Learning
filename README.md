@@ -1,6 +1,8 @@
 # Numpy Tutorial for Machine Learning
 
-This tutorial will teach you the basic skills needed to use NumPy for Machine Learning. It will provide a brief overview of NumPy's core features and then focus more specifically on aspects that are useful for Machine Learning problems.  
+This tutorial will teach you the basic skills needed to use NumPy for Machine Learning. It will provide a brief overview of NumPy's core features and then focus more specifically on aspects that are useful for Machine Learning problems.    
+
+If you want to get the most out of this tutorial then I suggest cloning this repo and playing with the code as you go along.  
 
 **What is NumPy?**   
 "NumPy is the fundamental package for scientific computing in Python. It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays..." - [NumPy.org](https://numpy.org/doc/stable/user/quickstart.html)
@@ -11,7 +13,7 @@ As the definition states, "NumPy is the fundamental package for scientific compu
 The fundamental building block of NumPy is the multidimensinal array. The NumPy array can show up in different ways during a Machine Learning problem but it will commonly represent your Dataset, pieces of your Dataset, or ouput from methods like predicting values or calculating accuracy scores. Therefore, the most important things to know are how to look at values, create/read/update/delete rows (examples), and create/read/update/delete columns (features). 
 
 **Extra Learning**  
-The guides on [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) are very good and largely what this guide is based on.  
+The guides on [numpy.org](https://numpy.org/doc/stable/user/quickstart.html) are very good and largely what this guide is based on.    
 
 # Table of Contents
 
